@@ -1,0 +1,3 @@
+经过多次查询，没发现有现成的xml文件模板。所以这个还是得需要手动设置。
+
+windows---preferences--General--appearance--Colors and Fonts
